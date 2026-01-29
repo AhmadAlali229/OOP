@@ -22,3 +22,7 @@ C= cat("Cat",2)
 C.speak()
 d=dog("Dog",3)
 d.speak()
+
+
+p3= Pet("Pepper",3)
+p3.speak()
